@@ -12,6 +12,12 @@ I am a recent graduate in Cybernetics Engineering, passionate about exploring ne
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on smart device projects
 
+### Education
+
+* 🎓 First-Class degree in Cybernetics BEng | University of Greenwich
+* 💻 Final-Year Individual Project: Movement Range Recorder for recovering patients.
+
+  
 ### Skills
 
 
