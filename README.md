@@ -9,7 +9,7 @@ I am a recent graduate in Cybernetics Engineering, passionate about exploring ne
 
 * 🌍  I'm based in Witham, United Kingdom
 * ✉️  You can contact me at [medihamustafova@outlook.com](mailto:medihamustafova@outlook.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on smart device projects
 
 ### Education
